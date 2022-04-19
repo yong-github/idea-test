@@ -7,6 +7,7 @@ public class Main {
         System.out.println("HelloWorld!");
         System.out.println("update!");
         System.out.println("git diff!");
+        System.out.println("pr add content");
     }
 
 }
