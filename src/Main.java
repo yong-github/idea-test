@@ -5,6 +5,7 @@ public class Main {
     @Test
     public void testHelloWrold() {
         System.out.println("HelloScala!");
+        System.out.println("1");
     }
 
 }
