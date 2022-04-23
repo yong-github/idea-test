@@ -4,10 +4,13 @@ public class Main {
 
     @Test
     public void testHelloWrold() {
-        System.out.println("HelloScala!");
-        System.out.println("1");
-        System.out.println("2");
-        System.out.println("3");
+        System.out.println("HelloWorld!");
+        System.out.println("update!");
+        System.out.println("git diff!");
+        System.out.println("pr add content");
+        System.out.println("pr +HEAD");
+        System.out.println("test no --amend");
+        System.out.println("test --amend");
     }
 
 }
