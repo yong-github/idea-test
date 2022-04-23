@@ -10,7 +10,6 @@ public class Main {
         System.out.println("pr add content");
         System.out.println("pr +HEAD");
         System.out.println("test no --amend");
-        System.out.println("test --amend");
     }
 
 }
