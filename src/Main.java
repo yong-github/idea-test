@@ -6,6 +6,7 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("master 1");
         System.out.println("pr 1");
+        System.out.println("pr 2");
     }
 
 }
